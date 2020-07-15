@@ -11,6 +11,7 @@ most of the practice are from ztm-ml course.
 - Matplotlib => visualizing the data.
 - scikit-learn => model for maching learning.
 - Jupyter Notebook => workspace. good for data science project.
+
 also using miniconda (mini version of Anaconda) and conda as project manager.
 
 ================================================================================================
